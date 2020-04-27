@@ -52,15 +52,14 @@
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
 	        	<li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	        	<li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
-	        	<li class="nav-item"><a href="rooms.html" class="nav-link">Apartment Room</a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="<?= base_url('index.php/auth/login') ?>" class="nav-link"><button type="button" class="btn btn-primary " name="button">Login</button></a></li>
+	        	<!-- <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li> -->
+	        	<!-- <li class="nav-item"><a href="rooms.html" class="nav-link">Apartment Room</a></li> -->
+	          <!-- <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li> -->
 	        </ul>
 	      </div>
 	    </div>
 	  </nav>
     <!-- END nav -->
-
-    

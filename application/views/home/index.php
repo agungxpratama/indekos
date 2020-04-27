@@ -1,4 +1,4 @@
-<div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+<!-- <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
   <div class="overlay"></div>
   <div class="container">
     <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
@@ -9,14 +9,14 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <section class="ftco-section ftco-book ftco-no-pt ftco-no-pb">
     <div class="container">
         <div class="row justify-content-end">
             <div class="col-lg-4">
                     <form action="#" class="appointment-form">
-                        <h3 class="mb-3">Book your apartment</h3>
+                        <h3 class="mb-3">Pesan Kosan Anda</h3>
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="form-group">
@@ -139,7 +139,7 @@
         <div class="container-fluid px-md-0">
             <div class="row no-gutters justify-content-center pb-5 mb-3">
       <div class="col-md-7 heading-section text-center ftco-animate">
-        <h2>Apartment Room</h2>
+        <h2>Daftar Kosan</h2>
       </div>
     </div>
             <div class="row no-gutters">
